@@ -1,8 +1,8 @@
-Landing Page:
+Cart Page:
 ![image](https://github.com/imnirajky/Ecommerce-Webapp/assets/70714591/acff2651-7b5a-434b-bb75-e4fee214f0d6)
 
 
-Cart Page:
+Landing Page:
 ![image](https://github.com/imnirajky/Ecommerce-Webapp/assets/70714591/9353d202-b4ee-494a-8b60-4fd889dd5fba)
 
 
